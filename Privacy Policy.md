@@ -28,4 +28,4 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at contact@hajime.guru.
 
-This privacy policy was last updated on June 20, 2023.
+This privacy policy was last updated on June 21, 2023.
