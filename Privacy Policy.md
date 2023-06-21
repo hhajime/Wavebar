@@ -2,6 +2,12 @@
 
 This privacy policy governs your use of the software application WaveBar ("Application") for MacOS devices that was created by JongMyeong Ha, AKA Hajime.
 
+## Screen Recording Data
+
+The Application uses screen recording data exclusively for the purpose of visualizing audio. The data is not stored or transferred outside of the Application, and it is immediately released from memory after it is used for visualization.
+
+This ensures that no screen recording data persists beyond its immediate use in the Application, further underscoring our commitment to your privacy.
+
 ## Data Collected
 
 The Application does not collect or transmit any personally identifiable information about you, such as your name, address, phone number or email address.
