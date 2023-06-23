@@ -1,8 +1,10 @@
 # WaveBar
+WaveBar is an intuitive and sleek audio visualizer for Mac Users.
+Experience the perfect amalgamation of music and visual art right on your desktop!
 
 ![WaveBar_AppIcon_256px](https://github.com/hhajime/WaveBar/assets/36729917/899211b1-7dc3-4246-b167-89e65c199683.png)
 
-WaveBar is an intuitive and sleek audio visualizer for Mac Users. Experience the perfect amalgamation of music and visual art right on your desktop!
+[![appstore](https://github.com/hhajime/WaveBar/assets/36729917/a0f9a6db-67fb-4ea5-9cc3-9dc512271da9)](https://apps.apple.com/app/id6450398808)
 
 ## Features
 
@@ -17,10 +19,6 @@ WaveBar is an intuitive and sleek audio visualizer for Mac Users. Experience th
 - **Fullscreen Visualization**: Engage in an immersive audio-visual experience with fullscreen visualization. Perfect for those chill-out moments or when you simply want to enjoy your music in a grand, expressive manner.
 
 ![Fullscreen](https://github.com/hhajime/WaveBar/assets/36729917/d8bbc879-8ac5-4de0-8019-2a0706ac39f4)
-
-## Download
-
-Get WaveBar on the MacOS App Store [here](appstore-link).
 
 ## Installation
 
