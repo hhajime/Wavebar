@@ -1,6 +1,6 @@
 
 <div align="center"> 
-<img width="1304" alt="Screenshot 2023-06-24 at 5 31 15 PM" src="https://github.com/hhajime/WaveBar/assets/36729917/8cf9786a-018c-4394-a29f-c69029b318b3">
+<img width="1304" alt="Screenshot 2023-06-24 at 5 31 15 PM" src="https://github.com/hhajime/WaveBar/assets/36729917/3738912e-875f-46a8-a55a-6b7df4d8cf22">
 
 
 **<br>WaveBar is an intuitive and sleek audio visualizer for Mac Users.<br>**
