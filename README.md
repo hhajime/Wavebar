@@ -44,7 +44,7 @@
 
 WaveBar is protected under the software copyright of Hajime.
 
-If you have any further questions or feedback, don't hesitate to reach out or open an issue on this repository.
+If you have any further questions or feedback, don't hesitate to reach out or open an issue on this repository or contact with contact@hajime.guru
 
 ---
 
