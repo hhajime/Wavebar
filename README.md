@@ -1,4 +1,4 @@
-
+![Group 9](https://github.com/hhajime/WaveBar/assets/36729917/4c836a3d-94fb-4f50-b05d-2f0568c6997a)
 <div align="center"> 
 <img width="1304" alt="Screenshot 2023-06-24 at 5 31 15 PM" src="https://github.com/hhajime/WaveBar/assets/36729917/3738912e-875f-46a8-a55a-6b7df4d8cf22">
 <img width="1300" alt="Screenshot 2023-07-02 at 4 51 53 PM" src="https://github.com/hhajime/WaveBar/assets/36729917/87bac07f-d35a-46ef-bb7f-6e7d429607e1">
@@ -27,7 +27,7 @@
 
 - **Fullscreen Visualization**: Engage in an immersive audio-visual experience with fullscreen visualization. Perfect for those chill-out moments or when you simply want to enjoy your music in a grand, expressive manner.
 
-![Fullscreen](https://github.com/hhajime/WaveBar/assets/36729917/d8bbc879-8ac5-4de0-8019-2a0706ac39f4)
+  ![FS](https://github.com/hhajime/WaveBar/assets/36729917/aa2e1308-e97d-445a-95c5-bcd9e19c3dd6)
 
 ## Installation
 
