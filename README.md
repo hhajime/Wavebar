@@ -14,7 +14,7 @@
 <br/>
 
 ## Features
-<img width="1001" alt="Screenshot 2023-07-04 at 2 17 04 PM" src="https://github.com/hhajime/WaveBar/assets/36729917/148e062b-dc36-404d-b061-c3f4aa8d266a">
+<img width="928" alt="Screenshot 2023-08-24 at 4 49 35 AM" src="https://github.com/hhajime/WaveBar/assets/36729917/91457370-cd74-47e0-abaa-45d070ee8dd3">
 
 - **Menubar Visualization**: Display the audio visualization right on your MacOS menubar. Get a real-time, compact audio visual representation of your favorite tunes without disturbing your workflow.
 
