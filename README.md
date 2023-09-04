@@ -26,7 +26,7 @@
 
 - **Fullscreen Visualization**: Engage in an immersive audio-visual experience with fullscreen visualization. Perfect for those chill-out moments or when you simply want to enjoy your music in a grand, expressive manner.
 
-  ![FS](https://github.com/hhajime/WaveBar/assets/36729917/aa2e1308-e97d-445a-95c5-bcd9e19c3dd6)
+![Untitled video - Made with Clipchamp (3)](https://github.com/hhajime/WaveBar/assets/36729917/2e7ebba6-684a-4bbc-9f52-a34043803c2a)
 
 ## Installation
 
