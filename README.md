@@ -40,11 +40,6 @@
 3. Allow the necessary permissions(Privacy & Policy -> Screen Capture) for WaveBar to access the system audio input.
 4. Enjoy your new audio-visual experience!
 
-## Usage
-
-- **To display in Menubar**: Select Visualizer type in the 'Collection' option from the settings menu.
-- **To display in Fullscreen**: Select the 'Fullscreen' option from the settings menu.
-
 ## License
 
 WaveBar is protected under the software copyright of Hajime.
